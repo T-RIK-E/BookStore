@@ -1,0 +1,30 @@
+{
+	"book":
+	{
+		"author":"MOm",
+		"title":"I am the lord, the savior and the truth",
+		"imgName":"dummy_image",
+		"publishYear":"1000",
+		"description":"argfqcawc",
+		"price":"20.00"
+	},
+  "book0":
+  {
+    "author": "Godley Malabanan",
+    "title": "World Canvas",
+    "imgName": "book_cover_1",
+    "publishYear": "2012",
+    "description": "Join Mika and her best friend Yuna on their journey into the world of love!",
+    "price": "12.99"
+  }
+,
+  "book1":
+  {
+    "author": "Yoshiyuki Sadamoto",
+    "title": "Neon Genesis Evangelion",
+    "imgName": "book_cover_2",
+    "publishYear": "1993",
+    "description": "Experience the exciting sequel to Shinji and Asaka's thrilling relationship!"
+    "price": "8.99"
+  }
+}

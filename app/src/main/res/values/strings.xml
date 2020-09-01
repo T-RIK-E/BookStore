@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Book Store</string>
+    <string name="preButton">Book Preview</string>
+    <string name="cartButton">Add to Cart</string>
+    <string name="search">Search</string>
+    <string name="checkOut">Proceed to Checkout</string>
+    <string name="cartBar">Cart</string>
+    <string name="total">Total</string>
+    <string-array name="coverChoice">
+        <item>HardCover</item>
+        <item>SoftCover</item>
+    </string-array>
+</resources>

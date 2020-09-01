@@ -1,0 +1,167 @@
+{
+	"book0":
+	{
+		"author": "Godley Malabanan",
+		"title": "World Canvas",
+		"imgName": "book_cover_1",
+		"publishYear": "2012",
+		"description": "Join Mika and her best friend Yuna on their journey into the world of love!",
+		"priceSoft": "12.99",
+		"priceHard": "17.99",
+		"url": "https://en.wikipedia.org/wiki/Happy_World!"
+	},
+	"book1":
+	{
+		"author": "Yoshiyuki Sadamoto",
+		"title": "Neon Genesis Evangelion",
+		"imgName": "book_cover_2",
+		"publishYear": "1993",
+		"description": "Experience the exciting sequel to Shinji and Asaka's thrilling relationship!",
+		"priceSoft": "8.99",
+		"priceHard": "13.99",
+		"url": "https://en.wikipedia.org/wiki/Neon_Genesis_Evangelion"
+	},
+	"book2":
+	{
+		"author": "Saburouta",
+		"title": "Citrus",
+		"imgName": "book_cover_3",
+		"publishYear": "2014",
+		"description": "Yuzu, who hasn't experienced her first love, transfers to an all-girls school! Who will she find there?",
+		"priceSoft": "18.99",
+		"priceHard": "23.99",
+		"url": "https://en.wikipedia.org/wiki/Citrus_(manga)"
+	},
+	"book3":
+	{
+		"author": "Kenji Saitō",
+		"title": "Trinity Seven",
+		"imgName": "book_cover_4",
+		"publishYear": "2010",
+		"description": "Pride, Envy, Wrath, Sloth, Greed, Gluttony, Lust. These are the seven sins laid upon seven girls who rule over Biblia Academy!",
+		"priceSoft": "9.99",
+		"priceHard": "14.99",
+		"url": "https://en.wikipedia.org/wiki/Trinity_Seven"
+	},
+	"book4":
+	{
+		"author": "Akira Hiramoto",
+		"title": "Prison School",
+		"imgName": "book_cover_5",
+		"publishYear": "2016",
+		"description": "When the boys get caught peeping, they’re sent to the school’s prison, which is run by the brutally seductive warden, who also happens to be the VP of the Underground Student Council!",
+		"priceSoft": "24.99",
+		"priceHard": "29.99",
+		"url": "https://en.wikipedia.org/wiki/Prison_School"
+	},
+	"book5":
+	{
+		"author": "Bow Ditama",
+		"title": "Kiss x Sis",
+		"imgName": "book_cover_6",
+		"publishYear": "2005",
+		"description": "These siblings get along really well! In fact, a little too well!",
+		"priceSoft": "14.99",
+		"priceHard": "19.99",
+		"url": "https://en.wikipedia.org/wiki/Kissxsis"
+	},
+	"book6":
+	{
+		"author": "Okayado",
+		"title": "Monster Musume",
+		"imgName": "book_cover_7",
+		"publishYear": "2016",
+		"description": "1 guy, 8 monster girls! Who will he choose?",
+		"priceSoft": "11.99",
+		"priceHard": "16.99",
+		"url": "https://en.wikipedia.org/wiki/Monster_Musume"
+	},
+	"book7":
+	{
+		"author": "Nio Nakatani",
+		"title": "Bloom Into You",
+		"imgName": "book_cover_8",
+		"publishYear": "2015",
+		"description": "How does this girl respond to her classmate's confession? By dating her of course!",
+		"priceSoft": "22.99",
+		"priceHard": "27.99",
+		"url": "https://en.wikipedia.org/wiki/Bloom_Into_You"
+	},
+	"book8":
+	{
+		"author": "Kenji Inoue",
+		"title": "Grand Blue",
+		"imgName": "book_cover_9",
+		"publishYear": "2014",
+		"description": "This diving team doesn't see the too much water!",
+		"priceSoft": "21.99",
+		"priceHard": "26.99",
+		"url": "https://en.wikipedia.org/wiki/Grand_Blue"
+	},
+	"book9":
+	{
+		"author": "Izuru Yumizuru",
+		"title": "Infinity Stratos",
+		"imgName": "book_cover_10",
+		"publishYear": "2013",
+		"description": "How does the only boy who can man the IS machine fair against groups of girls?!",
+		"priceSoft": "16.99",
+		"priceHard": "21.99",
+		"url": "https://en.wikipedia.org/wiki/Infinite_Stratos"
+	},
+	"book10":
+	{
+		"author": "Masamune Kuji",
+		"title": "Hybrid × Heart Magias Academy Ataraxia",
+		"imgName": "book_cover_11",
+		"publishYear": "2012",
+		"description": "In an all girls magic academy, a helpless boy has arrived!",
+		"priceSoft": "29.99",
+		"priceHard": "34.99",
+		"url": "https://en.wikipedia.org/wiki/Hybrid_%C3%97_Heart_Magias_Academy_Ataraxia"
+	},
+	"book11":
+	{
+		"author": "Rei Hiroe",
+		"title": "Bikini Warriors",
+		"imgName": "book_cover_12",
+		"publishYear": "2015",
+		"description": "These aren't your typical girls in bikinis!",
+		"priceSoft": "28.99",
+		"priceHard": "33.99",
+		"url": "https://en.wikipedia.org/wiki/Bikini_Warriors"
+	},
+	"book12":
+	{
+		"author": "Daichi Sorayomi",
+		"title": "Keijo!!!",
+		"imgName": "book_cover_13",
+		"publishYear": "2012",
+		"description": "Keijo - the new sport of battling bodies has exploded in popularity!",
+		"priceSoft": "7.99",
+		"priceHard": "12.99",
+		"url": "https://en.wikipedia.org/wiki/Keijo_(manga)"
+	},
+	"book13":
+	{
+		"author": "Daisuke Satō",
+		"title": "Highschool of the Dead",
+		"imgName": "book_cover_14",
+		"publishYear": "2006",
+		"description": "After zombies start attacking this poor highschool, a group of boys and girls set off to save the world!",
+		"priceSoft": "6.99",
+		"priceHard": "11.99",
+		"url": "https://en.wikipedia.org/wiki/Highschool_of_the_Dead"
+	},
+	"book14":
+	{
+		"author": "Ichiei Ishibumi",
+		"title": "Highschool DxD",
+		"imgName": "book_cover_15",
+		"publishYear": "2008",
+		"description": "Nobody would've thought demons and angels were real until they infiltrate this highschool!",
+		"priceSoft": "10.99",
+		"priceHard": "15.99",
+		"url": "https://en.wikipedia.org/wiki/High_School_DxD"
+	}
+}

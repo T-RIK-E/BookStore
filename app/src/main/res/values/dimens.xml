@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layoutPadding">19dp</dimen>
+    <dimen name="imgWidth">100dp</dimen>
+    <dimen name="imgHeight">140dp</dimen>
+    <dimen name="between">11dp</dimen>
+    <dimen name="imgUnder"></dimen>
+    <dimen name="radius">4dp</dimen>
+    <dimen name="circleSize">15dp</dimen>
+    <dimen name="toolBarH">56dp</dimen>
+
+    <dimen name="largeButtonW">322dp</dimen>
+    <dimen name="largeButtonH">53.3dp</dimen>
+
+    <dimen name="rightViewW">165.7dp</dimen>
+    <dimen name="prevButH">40.7dp</dimen>
+    <dimen name="prevButW">138dp</dimen>
+
+    <dimen name="square">66.7dp</dimen>
+</resources>

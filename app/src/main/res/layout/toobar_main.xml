@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ToolBar Source: https://guides.codepath.com/android/using-the-app-toolbar -->
+<android.support.v7.widget.Toolbar
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/layoutPadding"
+        android:layout_marginRight="@dimen/layoutPadding"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+
+            <ImageButton
+                android:id="@+id/menu"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:adjustViewBounds="true"
+                android:maxWidth="18dp"
+                android:maxHeight="12dp"
+                android:scaleType="fitXY"
+                android:layout_marginTop="22dp"
+                android:background="@color/white"
+                app:srcCompat="@drawable/menu_icon" />
+
+            <TextView
+                android:id="@+id/appName"
+                android:layout_width="216.3dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="28.3dp"
+                android:layout_marginTop="15dp"
+                android:text="@string/app_name"
+                android:textSize="20sp"
+                android:textColor="@color/black"/>
+
+            <FrameLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:id="@+id/cartButton"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="14.3dp"
+                    android:layout_marginLeft="36.3dp"
+                    android:adjustViewBounds="true"
+                    android:background="@color/white"
+                    android:maxWidth="23dp"
+                    android:maxHeight="23dp"
+                    android:scaleType="fitCenter"
+                    app:srcCompat="@drawable/shopping_cart" />
+
+                <TextView
+                    android:id="@+id/cartNum"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="44.3dp"
+                    android:layout_marginTop="22.3dp"
+                    android:background="@drawable/yellow_circle"
+                    android:gravity="center"
+                    android:text="1"
+                    android:textColor="@color/white"
+                    android:textSize="9sp"
+                    android:visibility="invisible" />
+            </FrameLayout>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="48dp"
+            android:orientation="horizontal"
+            android:background="@drawable/search_bar"
+            android:layout_marginTop="11.7dp"
+            android:gravity="center_vertical">
+
+            <!-- image resizing: https://stackoverflow.com/questions/6267733/android-resizing-imageview-in-xml -->
+            <ImageView
+                android:id="@+id/search_icon"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:maxHeight="17.1dp"
+                android:maxWidth="17.1dp"
+                android:adjustViewBounds="true"
+                android:scaleType="fitCenter"
+                android:layout_marginLeft="14dp"
+                app:srcCompat="@drawable/search" />
+
+            <EditText
+                android:id="@+id/search_bar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:ems="10"
+                android:hint="@string/search"
+                android:background="@color/pale_grey"
+                android:inputType="textPersonName"
+                android:layout_marginLeft="15.3dp"/>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</android.support.v7.widget.Toolbar>
